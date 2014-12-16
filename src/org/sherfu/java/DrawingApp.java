@@ -1,4 +1,4 @@
-package org.sherfu.java;
+package org.sherfu.java; 
 
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.xml.XmlBeanFactory;

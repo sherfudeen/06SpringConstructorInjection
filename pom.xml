@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <properties>
   <spring.version>3.0.5.RELEASE</spring.version> 
-  </properties>
+  </properties> 
   
   <dependencies>
  
